@@ -1,2 +1,2 @@
-# Multiclass-and-Binary-Sentiment-Analysis
-Sentiment analysis of GoEmotions dataset, comparing and contrasting different modeling techniques for multiclass and binary classification
+### Abstract
+Understanding human emotion is a very difficult task, even for psychologists. However, there is always some bias that people can’t look over. Machine learning can help eliminate that bias by just training on what it observes. We test two different types of dataset to see which one produces a higher accuracy score. The first one is testing a multiclass dataset with 26 emotions while the second one is testing on a binary class with only two emotions. We trained each dataset on these four models: Random Forest Classifier, Linear Support Vector Classifier, Naïve Bayes Classifier, and XGBoost. We compare and contrast the results of each model between the two datasets.
